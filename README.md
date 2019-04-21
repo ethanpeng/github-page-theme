@@ -13,9 +13,9 @@ Github Page Theme 支援下面幾種，可以點進去看實際效果如何再�
 - Architect theme：[官網](https://pages-themes.github.io/architect/)  
 - Tactile theme：[官網](https://pages-themes.github.io/tactile/)  
 - Dinky theme：[官網](https://pages-themes.github.io/dinky/)  
-以上才有列在 Settings 讓你選擇
 
-- Primer https://pages-themes.github.io/primer/
+以上12種才有列在 Settings 讓你選擇，以下沒有列出來的：
+- Primer：https://pages-themes.github.io/primer/
 
 就在我打完以上後才發現官網有[列表](https://pages.github.com/themes/)了...  
 
